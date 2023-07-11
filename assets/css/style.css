@@ -74,6 +74,7 @@ image{
  background-color: transparent;
  width: 200px;
  margin: auto;
+ margin-top: 10px;
  padding-top: 25px;
  padding-bottom: 25px;
  font-family: 'Open Sans Condensed', sans-serif;
